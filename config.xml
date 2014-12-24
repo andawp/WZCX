@@ -1,0 +1,11 @@
+﻿<config>
+    <mail>
+        <mail_host>smtp.exmail.qq.com</mail_host>
+        <mail_user>admin</mail_user>
+        <mail_pass>******</mail_pass>
+        <mail_postfix>****.com.cn</mail_postfix>
+    </mail>
+    <carInfo>
+        <car cpd="湘" fdj="45678" hm="A12345" to_mail="****@****.com.cn" zl="02"></car>
+    </carInfo>
+</config>
